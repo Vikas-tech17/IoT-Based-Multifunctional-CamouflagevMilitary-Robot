@@ -1,7 +1,6 @@
 # IoT-Based-Multifunctional-Camouflage Military-Robot
 IoT-based multifunctional camouflage military robot designed for surveillance in hazardous environments. Integrates Arduino and Raspberry Pi with multiple sensors for real-time monitoring, adaptive camouflage, and LTE-based remote control, enabling efficient and secure operation.
 
-# IoT-Based Multifunctional Camouflage Military Robot
 
 ## Overview
 This project presents the design and development of an IoT-based multifunctional camouflage military robot intended for surveillance and operation in hazardous environments. The system integrates embedded systems, IoT communication, and multiple sensors to enable real-time monitoring, threat detection, and remote operation.
